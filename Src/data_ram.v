@@ -161,17 +161,17 @@ module data_ram(
         data_mem1[6'h20] <= zero8;
         data_mem2[6'h20] <= zero8;
         data_mem3[6'h20] <= zero8;
-           
+        
         data_mem0[6'h24] <= {zero8[7:1], B};
         data_mem1[6'h24] <= zero8;
         data_mem2[6'h24] <= zero8;
         data_mem3[6'h24] <= zero8;
-         
+        
         data_mem0[6'h28] <= {zero8[7:1], calc};
         data_mem1[6'h28] <= zero8;
         data_mem2[6'h28] <= zero8;
         data_mem3[6'h28] <= zero8;
-           
+        
         data_mem0[6'h2c] <= switch[7:0];
         data_mem1[6'h2c] <= switch[15:8];
         data_mem2[6'h2c] <= zero8;
