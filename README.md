@@ -106,8 +106,8 @@
 
 # 贡献
 [帅天强](https://github.com/shuaitq)  
-[高翔宇]()  
-[马庆涛]()
+[高翔宇](blacktion07@gmail.com)  
+[马庆涛](https://github.com/MaQingT)
 
 # 参考
 [自己动手写CPU](https://www.amazon.cn/dp/B01HLURAGI)
