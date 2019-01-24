@@ -106,7 +106,7 @@
 
 # 贡献
 [帅天强](https://github.com/shuaitq)  
-[高翔宇](blacktion07@gmail.com)  
+[高翔宇](mailto:blacktion07@gmail.com)  
 [马庆涛](https://github.com/MaQingT)
 
 # 参考
