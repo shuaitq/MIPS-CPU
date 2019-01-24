@@ -112,4 +112,4 @@
 [马庆涛]()
 
 # 参考
-[自己动手写CPU](https://www.amazon.cn/dp/B01HLURAGI/ref=sr_1_1?ie=UTF8&qid=1548318095&sr=8-1)
+[自己动手写CPU](https://www.amazon.cn/dp/B01HLURAGI)
