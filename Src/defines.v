@@ -57,7 +57,7 @@
 `define EXE_SLT         6'b101010
 `define EXE_SLTU        6'b101011
 `define EXE_SLTI        6'b001010
-`define EXE_SLTIU       6'b001011   
+`define EXE_SLTIU       6'b001011
 `define EXE_ADD         6'b100000
 `define EXE_ADDU        6'b100001
 `define EXE_SUB         6'b100010
@@ -101,9 +101,9 @@
 `define EXE_SH          6'b101001
 `define EXE_SW          6'b101011
 `define EXE_SWL         6'b101010
-`define EXE_SWR         6'b101110       
+`define EXE_SWR         6'b101110
 
-`define EXE_NOP         6'b000000       
+`define EXE_NOP         6'b000000
 `define SSNOP           32'b00000000000000000000000001000000
 
 `define EXE_SPECIAL_INST    6'b000000   // SPECIAL类指令的指令码
@@ -137,7 +137,7 @@
 `define EXE_SLT_OP      8'b00101010
 `define EXE_SLTU_OP     8'b00101011
 `define EXE_SLTI_OP     8'b01010111
-`define EXE_SLTIU_OP    8'b01011000   
+`define EXE_SLTIU_OP    8'b01011000
 `define EXE_ADD_OP      8'b00100000
 `define EXE_ADDU_OP     8'b00100001
 `define EXE_SUB_OP      8'b00100010
