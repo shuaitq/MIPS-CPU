@@ -87,14 +87,12 @@
 * lbu
 * lh
 * lhu
-* ll
 * lw
 * lwl
 * lwr
 
 ### 储存指令
 * sb
-* sc
 * sh
 * sw
 * swl
