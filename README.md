@@ -1,5 +1,5 @@
 # 项目简介
-这个一个使用Verilog语言开发的，基于MIPS32 Release 1指令集的五级流水CPU。
+这个一个使用Verilog语言开发的，基于MIPS32 Release 1指令集的五级流水线CPU。
 
 # 主要特性
 1. 五级整数流水线，分别是：取指、译码、执行、访存、回写。
@@ -110,4 +110,4 @@
 [马庆涛](https://github.com/MaQingT)
 
 # 参考
-[自己动手写CPU](https://www.amazon.cn/dp/B01HLURAGI)
+[《自己动手写CPU》](https://www.amazon.cn/dp/B01HLURAGI)
